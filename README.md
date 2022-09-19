@@ -64,8 +64,8 @@
  <h2>Contact:</h2>
 <div>
   
-  <a href = "mailto:kleitonewertonoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5532988443907&text=Hello" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kleitonewertonoliveira@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5532988443907&text=Hello" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 </div>
   
