@@ -45,13 +45,7 @@
 
 <br>
 
-<p align="center">
-  
-  <a href="https://github.com/KleitonEwerton" alt="Git Graph">
-    <img height="250px" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=KleitonEwerton&theme=monokai" />
-  </a>
 
-</p>
  
  <br>
 
