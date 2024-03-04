@@ -29,11 +29,7 @@
 ##
 
  <p align="center">
-  <a href="https://github.com/KleitonEwerton/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KleitonEwerton&count_private=true&show_icons=true&theme=monokai" width="438px" />
-  </a>
-
-
+  
   <a href="https://github.com/KleitonEwerton/github-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonEwerton&layout=compact&theme=monokai" height="180px"/>
   </a>
@@ -43,7 +39,7 @@
  
   <p align="center">
    <a href="https://github.com/KleitonEwerton/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KleitonEwerton&theme=monokai" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KleitonEwerton&theme=monokai" alt="Kleiton Ewerton"/>
    </a>
  <p>
 
