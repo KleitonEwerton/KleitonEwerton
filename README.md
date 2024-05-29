@@ -5,7 +5,6 @@
 
 <p align="center">
   <em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> <br>
-  <em>Working in  <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a></em>
 </em></p>
 
 <br>
