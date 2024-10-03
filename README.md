@@ -4,8 +4,18 @@
 </div>
 
 <p align="center">
-  <em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> <br>
-</em></p>
+  <em>
+    Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> 
+    <br>
+  </em>
+</p>
+
+<p align="center">
+  <em>
+    My Page <a href="https://www2.ufjf.br/ufjf/">Here</a>
+    <br>
+  </em>
+</p>
 
 <br>
 
