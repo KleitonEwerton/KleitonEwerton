@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    My Page <a href="https://www2.ufjf.br/ufjf/">Here</a>
+    My Page <a href="https://kleitonewerton.github.io/web-page/">Here</a>
     <br>
   </em>
 </p>
