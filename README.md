@@ -45,7 +45,7 @@
  <p align="center">
 
   <a href="https://github.com/KleitonEwerton/github-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonEwerton&layout=compact&theme=monokai" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonEwerton&layout=compact&theme=monokai&count_private=true" height="180px"/>
   </a>
  <p>
  
