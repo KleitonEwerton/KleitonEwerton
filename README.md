@@ -45,7 +45,7 @@
 
  <p align="center">
 
-  <a href="https://github.com/KleitonEwerton/github-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonEwerton&layout=compact&theme=monokai&count_private=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleitonEwerton&layout=compact&theme=monokai&count_private=true" height="180px"/>
   </a>
  <p>
@@ -56,7 +56,7 @@
  <br>
 
   <p align="center">
-   <a href="https://github.com/KleitonEwerton/github-readme-stats">
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=KleitonEwerton&theme=monokai&count_private=true">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KleitonEwerton&theme=monokai&count_private=true" alt="Kleiton Ewerton"/>
    </a>
  <p>
