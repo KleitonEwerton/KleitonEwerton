@@ -56,7 +56,7 @@
 
   <p align="center">
    <a href="https://github.com/KleitonEwerton/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KleitonEwerton&theme=monokai" alt="Kleiton Ewerton"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KleitonEwerton&theme=monokai&count_private=true" alt="Kleiton Ewerton"/>
    </a>
  <p>
 
