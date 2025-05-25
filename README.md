@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a> 
+   Master’s student in Computer Science at <a href="https://www2.ufjf.br/pgcc/">PPGCC – Federal University of Juiz de Fora (UFJF)</a>
     <br>
   </em>
 </p>
